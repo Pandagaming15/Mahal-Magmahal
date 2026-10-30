@@ -1,0 +1,6 @@
+{
+  "name": "Mahal ang Magmahal",
+  "description": "A 2.5D pixel-art narrative adventure game inspired by Until Then and the song by Esremborak. Explore ancestral Filipino homes, uncover family secrets, and experience an emotional journey through heritage and heart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
